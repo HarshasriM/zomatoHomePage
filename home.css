@@ -108,10 +108,10 @@
     width: 160px;
     height: 140px;
   }
-.maincard{
-    display:grid;
-    column-gap:0px;
-    grid-template-columns: auto auto auto;
-}
+  .maincard {
+    display: grid;
+    column-gap: 38px;
+    grid-template-columns: 358px 358px 358px;
+  }
   
 
