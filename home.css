@@ -1,0 +1,117 @@
+.back-img{
+    background-image:linear-gradient(180deg, #9d0e0e00 0%, #4f0707 100%),
+    url(assets/background.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+    background-size: cover;
+    mix-blend-mode: multiply;
+    opacity: 1;
+}
+.logo{
+    background-color: white;
+    display: inline;
+    color: #EB2929;
+    border-radius:50%;
+    font: normal normal 600 70px/106px Poppins;
+}
+.hstack{
+    display: flex;
+}
+.img1{
+    margin-top:70px;
+    text-align: center;
+}
+.login{
+    text-decoration: none;
+    color:white;
+    opacity:0.98;
+    font-size:medium;
+    display: inline;
+    font: normal normal medium 16px/25px Poppins;
+}
+.createacc{
+    
+        text-decoration: none;
+        color:white;
+        border: 1px solid white;
+        border-radius: 3px;
+        opacity:0.98;
+        font: normal normal medium 16px/25px Poppins;
+        padding:7px;
+        font-size: medium;
+        margin-right:50px;
+}
+.heading{
+    text-align:center;
+    font: normal normal 600 36px/55px Poppins;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-top:10px;
+}
+.location{
+  margin-left:280px;
+  border-radius: 0px;
+  display:flex;
+}
+.search{
+    margin-left:30px;
+}
+.title>h2{
+    text-align: left;
+    font: normal normal bold 30px/46px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    margin-left: 60px;
+ }
+ .title>p{
+    text-align: left;
+    font: normal normal normal 18px/27px Poppins;
+    letter-spacing: 0px;
+    color: #8C96AB;
+    opacity: 1;
+    margin-left:60px;
+}
+.card_body>h5{
+    width: 88px;
+    height: 25px;
+
+    text-align: left;
+    font: normal normal 600 18px/27px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    margin-left:60px;
+    margin-top:22px;
+}
+.card_body>p{
+    width: 180px;
+    height: 40px;
+    text-align:left;
+    font: normal normal normal 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #8C96AB;
+    opacity: 1;
+    margin-left:60px;
+    
+}
+
+.card{
+        width: 360px;
+        box-shadow: 0px 3px 6px #00000029;
+        margin-left: 60px;
+      }
+      
+
+.titleitem {
+    width: 160px;
+    height: 140px;
+  }
+.maincard{
+    display:grid;
+    column-gap:0px;
+    grid-template-columns: auto auto auto;
+}
+  
+
